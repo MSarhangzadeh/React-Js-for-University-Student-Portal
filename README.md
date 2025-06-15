@@ -33,49 +33,49 @@ This project is the frontend for a university portal, built using <strong>React.
 <p>
 The main landing page introduces the university with essential information and links.
 </p>
-<img src="images/mainPage.png" alt="Main Page" width="100%" />
+<img src="mainPage.png" alt="Main Page" width="100%" />
 
 <h3>🔐 Authentication</h3>
 <p>
 Users can securely sign up or log in to access personalized dashboard features.
 </p>
-<img src="images/login.png" alt="Login Page" width="100%" />
+<img src="Login.png" alt="Login Page" width="100%" />
 
 <h3>📋 Dashboard</h3>
 <p>
 Once logged in, users are directed to their dashboard where they can manage their profile and access key modules.
 </p>
-<img src="images/dashboard.png" alt="Dashboard" width="100%" />
+<img src="dashboard.png" alt="Dashboard" width="100%" />
 
 <h3>🍽️ Food Reservation</h3>
 <p>
 Students can reserve meals for the next 7 days. A clear and simple UI allows quick selection and confirmation.
 </p>
-<img src="images/foodReservation.png" alt="Food Reservation" width="100%" />
+<img src="foodReserve.png" alt="Food Reservation" width="100%" />
 
 <h3>📚 Course Management</h3>
 <p>
 All current semester courses are listed. Clicking a course provides detailed information, downloadable files, and embedded videos if available.
 </p>
-<img src="images/courseDetail.png" alt="Course Details" width="100%" />
+<img src="course.png" alt="Course Details" width="100%" />
 
 <h3>📝 Requests</h3>
 <p>
 Students can create, edit, delete, and track the status of various requests. File attachments are also supported.
 </p>
-<img src="images/request.png" alt="Request Section" width="100%" />
+<img src="request.png" alt="Request Section" width="100%" />
 
 <h3>💳 Wallet</h3>
 <p>
 Users can view their current balance and easily top-up funds needed for food reservations or other services.
 </p>
-<img src="images/wallet.png" alt="Wallet" width="100%" />
+<img src="wallet.png" alt="Wallet" width="100%" />
 
 <h3>🔔 Notifications</h3>
 <p>
 All official university notifications are displayed with timestamps, ensuring students never miss important updates.
 </p>
-<img src="images/notifications.png" alt="Notifications" width="100%" />
+<img src="notification.png" alt="Notifications" width="100%" />
 
 <hr/>
 
